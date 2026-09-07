@@ -1,0 +1,11 @@
+.header {
+   background-color: #646cff;
+  padding: 15px ;
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.15);
+}
+
+.logo {
+  color: white;
+  font-size: 24px;
+  font-weight: bold;
+}
