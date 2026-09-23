@@ -14,9 +14,9 @@ const Navbar = () => {
           <Link className={(`${loction.pathname == "/contact" ?"underline":"m-3"}`)} to="/contact">Contact Us</Link>
           <Link className={(`${loction.pathname == "/product" ?"underline":"m-3"}`)} to="/product">Product</Link>
         </div> */}
-        <div className="">
+        {/* <div className="">
           <Navlink className={(isActive)=>{ isActive ?"underline font-bold":"m-3"}} to="/"> Home</Navlink>
-        </div>
+        </div> */}
       </nav>
   )
 }
